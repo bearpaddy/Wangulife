@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WanguLife</string>
+    <string name="greeting_txt">Hello</string>
+    <string name="explanation">This is wangu timetracker-app</string>
+</resources>
